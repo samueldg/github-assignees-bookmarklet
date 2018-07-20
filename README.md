@@ -2,6 +2,20 @@
 
 :octocat: Bookmarklet to show issue assignees' avatars in GitHub project bar.
 
+This allows you to quickly select/unselect a user by clicking on their avatar.
+
+## Preview
+
+Using [a random GitHub project](https://github.com/kubeapps/kubeapps/projects/11)
+
+### Before
+
+![Screenshot: Before](./images/before.png)
+
+### After
+
+![Screenshot: After](./images/after.png)
+
 ## Usage
 
 1. Create a new bookmark in your browser.
